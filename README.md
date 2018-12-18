@@ -2,11 +2,11 @@
 Data Science Project 2018 fall
 Contributors: Nshan Potikyan & Karen Danielyan
 The files in this repository are:
-README.md
-TASKS.ipynb
-Project\ Report.ipynb
-data.csv
-Analysis.ipynb
+1. README.md
+2. TASKS.ipynb
+3. Project\ Report.ipynb
+4. data.csv
+5. Analysis.ipynb
 
 You can read through Project\ Report.ipynb to get the point of the project.
 data.csv contains 234033 MTPL insurance contract details and the claims occured. The file contains all the needed data for the 
